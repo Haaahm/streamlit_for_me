@@ -14,7 +14,7 @@ st.set_page_config(
 
 st.title("Data terminal")
 
-category = ["패션/의류","건강/운동", "날씨", "부동산/홈인테리어", "뷰티", "사진", "소셜", "스포츠", "엔터테인먼트", "지도/네비게이션"]
+category = ["👟패션/의류","♥️건강/운동", "⛅날씨", "🏠부동산/홈인테리어", "💄뷰티", "📷사진", "🗨️소셜", "🏀스포츠", "🎸엔터테인먼트", "🌏지도/네비게이션"]
 selected_category = st.selectbox('상품 카테고리', category)
 st.markdown("\n")
 
